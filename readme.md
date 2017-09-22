@@ -1,7 +1,7 @@
 Team Random Number Guess
 =
 
-In this challenge, you will need to create a new Node project (much like we did in lecture). 
+In this challenge, you will need to create a new Node project: 
 
 Base Mode:
 =
@@ -43,10 +43,8 @@ Take a moment to discuss with your team members why this is something that a cli
 
 Once you get it working, style it up, yo!
 
-Hard Mode:
--
 
-See how many of these you can implement in the given time. Remember to test when applying a feature and make sure your 
+
 
 - disallow two users two submit the same guess at the same time
 - disallow any guess to be entered more than once
