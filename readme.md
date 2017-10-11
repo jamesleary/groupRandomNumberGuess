@@ -1,7 +1,7 @@
 Team Random Number Guess
 =
 
-In this challenge, you will need to create a new Node project: 
+This Project is a Team Group project to create an app game that will have the user guessing a random number and a response to guess higher or lower.
 
 Base Mode:
 =
